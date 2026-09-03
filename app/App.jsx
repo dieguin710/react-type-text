@@ -32,8 +32,5 @@ function App (){
   </span> )}
   </div>
   </>
-)
-
-
-}
+)}
 export default App;
